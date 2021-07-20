@@ -1,0 +1,16 @@
+DRC Rules Export File for PCB: D:\Projects\emb.AIS\P770010Exx\PCB\P770010E05-Xx-LT-x.PcbDoc
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=3.94
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=5.91
+RuleKind=Width|RuleName=Width_50R|Scope=Board|Minimum=24.41
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=5.91
+RuleKind=Clearance|RuleName=Clearance_50R|Scope=Board|Minimum=11.02
+RuleKind=Clearance|RuleName=Clearance_50R_AXSEM|Scope=Board|Minimum=7.87
+RuleKind=Clearance|RuleName=Clearance_GND_TOP_RF|Scope=Board|Minimum=10.83
+RuleKind=Clearance|RuleName=Clearance_Testpoint_Via|Scope=Board|Minimum=0.04
+RuleKind=Clearance|RuleName=Clearance_Via_Via|Scope=Board|Minimum=9.84
+RuleKind=Clearance|RuleName=Clearance_Mounting_Hole_not_plated_Component_Side|Scope=Board|Minimum=7.87
+RuleKind=Clearance|RuleName=SolderMask_Clearance|Scope=Board|Minimum=15.75
+RuleKind=Clearance|RuleName=Clearance_Mounting_Hole_plated_Component_Side|Scope=Board|Minimum=51.18
+RuleKind=Clearance|RuleName=Clearance_Mounting_Hole_plated_Solder_Side|Scope=Board|Minimum=11.81
+RuleKind=Clearance|RuleName=Clearance_Reference_Point|Scope=Board|Minimum=11.81

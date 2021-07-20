@@ -1,0 +1,21 @@
+------------------------------------------------------------------------------------------
+Gerber File Extension Report For: P770010E05-X1-LP-x.GBR   19.07.2021  08:24:00
+------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------
+Layer Extension     Layer Description                      
+------------------------------------------------------------------------------------------
+.GTL                Top Layer                               
+.GP1                Internal Plane 1                        
+.GP2                Internal Plane 2                        
+.GBL                Bottom Layer                            
+.GTP                Top Paste                               
+.GTS                Top Solder                              
+.GBS                Bottom Solder                           
+.GBP                Bottom Paste                            
+.GM4                Mechanical 4 (Viafill)                  
+.GM10               Mechanical 10 (Custom Silkscreen Top)   
+.GM11               Mechanical 11 (Custom Silkscreen Bottom)
+.GM32               Mechanical 32 (Board Outline)           
+------------------------------------------------------------------------------------------
